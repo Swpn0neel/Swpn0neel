@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Swapnoneel Saha</h1>
 <h3 align="center">A passionate Frontend Developer and Open-Source Enthusiast from India</h3>
-<p>============================================================================================</p>
+<p></p>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
 
 <h4 align="left">Some Facts About Me</h4>
