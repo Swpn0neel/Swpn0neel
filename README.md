@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swapnoneel Saha</h1>
 <h3 align="center">A passionate Frontend Developer and Open-Source Enthusiast from India</h3>
 <p></p>
-<img align="right" alt="Coding" width="450" src="https://previews.123rf.com/images/sommersby/sommersby1908/sommersby190800173/130588066-user-with-tie-working-on-laptop-concept-illustration-of-person-with-personal-computer.jpg"></img>
+<img align="right" alt="Coding" width="450" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/img.png"></img>
 
 <h4 align="left">Some Facts About Me</h4>
 
