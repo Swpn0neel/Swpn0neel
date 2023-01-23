@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Swpn0neel/Swpn0neel/blob/main/Banner1.png)
+[![MasterHead](https://github.com/Swpn0neel/Swpn0neel/blob/main/Banner1.png)](https://github.com/Swpn0neel)
 
 
 <h1 align="center">Hi 👋, I'm Swapnoneel Saha</h1>
