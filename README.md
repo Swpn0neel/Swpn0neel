@@ -32,7 +32,7 @@
 <p align="left">
   <a href="https://twitter.com/swapnoneel123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapnoneel123" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/swapnoneel-saha-14a3161b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnoneel saha" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@Swapn0neel" target="blank"><img align="center" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.svg" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@Swapn0neel" target="blank"><img align="center" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnode.svg" height="30" width="40" /></a>
   <a href="https://discord.gg/Swappy#4340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Swappy#4340" height="30" width="40" /></a>
 </p>
 
