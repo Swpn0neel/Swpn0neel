@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/Swpn0neel/Swpn0neel/blob/main/Banner1.png)](https://github.com/Swpn0neel)
+[![MasterHead](https://github.com/Swpn0neel/Swpn0neel/blob/main/Banner0.png)](https://github.com/Swpn0neel)
 
 
-<h1 align="center">Hi 👋, I'm Swapnoneel Saha</h1>
-<h3 align="center">A passionate Front-End Developer and Open-Source Enthusiast</h3>
+<h2 align="center">Hi 👋, I'm Swapnoneel Saha</h2>
+<h4 align="center">A passionate Front-End Developer and Open-Source Enthusiast</h4>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile!!;I+am+open-minded,+eager+to+learn+more;Interested+in+Web-Development...;Have+a+nice+day+ahead!!"></p>
 <br>
 
