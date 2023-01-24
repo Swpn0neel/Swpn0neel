@@ -4,12 +4,13 @@
 <h2 align="center">Hi 👋, I'm Swapnoneel Saha</h2>
 <h4 align="center">A passionate Front-End Developer and Open-Source Enthusiast</h4>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile!!;I+am+open-minded,+eager+to+learn+more;Interested+in+Web-Development...;Have+a+nice+day+ahead!!"></p>
+
 <br>
 
 <img align="right" alt="Coding" width="450" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/img.png"></img>
 
 
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently studying at **Maulana Abul Kalam Azad University of Technology, West Bengal**
 
@@ -35,6 +36,34 @@
   <a href="https://hashnode.com/@Swapn0neel" target="blank"><img align="center" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnode.svg" height="30" width="40" /></a>
   <a href="https://discord.gg/Swappy#4340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Swappy#4340" height="30" width="40" /></a>
 </p>
+<hr>
+
+
+<h3 align="left">Achievements 🏆</h3> 
+
+- <a href="https://certificate.givemycertificate.com/c/95ff1f21-b87c-4fb0-b911-6ef59dbad9a6" /> Runner-Up of Treasure Hacks 3.0 Hackathon among 600 participants</a>
+- <a href="https://hack-the-league-chapter-2.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Recently+ended" /> Qualified for Hack The League Chapter 2
+
+
+<!-- ## <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode -->
+
+<!-- HASHNODE_BLOG:START -->
+<!-- <p align="left">
+<a href="https://arindam1729.hashnode.dev//a-beginners-guide-to-open-source" title="A Beginners Guide to Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673727414736/174f7e4e-43a9-450e-bf63-7103b608c2de.png" alt="A Beginners Guide to Open Source" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//a-beginners-guide-to-open-source" title="A Beginners Guide to Open Source"><strong>A Beginners Guide to Open Source</strong></a>
+<br/> Introduction
+Open-source software has been around for decades, but it's only in recent years that it has gained mainstream acceptance. With the rise of open-source projects like Linux, Apache, and WordPress, more and more people are becoming interest... </p> <br/> <br/>
+<p align="left">
+<a href="https://arindam1729.hashnode.dev//roadmap-to-becoming-a-cncf-mentee" title="Roadmap to Becoming a CNCF Mentee"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673434132809/800d8057-452a-4b4b-a907-4eb502584049.png" alt="Roadmap to Becoming a CNCF Mentee" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//roadmap-to-becoming-a-cncf-mentee" title="Roadmap to Becoming a CNCF Mentee"><strong>Roadmap to Becoming a CNCF Mentee</strong></a>
+<br/> Introduction
+Becoming a mentee through the Cloud Native Computing Foundation (CNCF) is a great way to gain experience and knowledge in the field of cloud-native computing. The CNCF mentorship program pairs experienced professionals with mentees who a... </p> <br/> <br/> -->
+<!-- HASHNODE_BLOG:END -->
+
+<!-- <div align="center">
+<p align="center"><b>FOR MORE BLOGS ⬇</b></p>
+<p><a href="https://swapnoneel.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div> -->
 
 
 <details>
