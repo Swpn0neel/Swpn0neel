@@ -47,8 +47,8 @@
 
 ## <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
 
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
