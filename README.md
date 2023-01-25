@@ -45,16 +45,16 @@
 - <a href="https://hack-the-league-chapter-2.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Recently+ended" /> Qualified for Hack The League Chapter 2
 
 
-## <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
-
+<!-- ## <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
+ -->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
-<div align="center">
+<!-- <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://swapnoneel.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
-
+ -->
 <details>
   <summary><h3>My GitHub Stats</h3></summary>
   <div align = "center">
