@@ -3,7 +3,7 @@
 
 <!-- <h2 align="center">Hi 👋, I'm Swapnoneel Saha</h2>
 <h4 align="center">A passionate Front-End Developer and Open-Source Enthusiast</h4> -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+open-minded,+eager+to+learn+more;Interested+in+anything+Tech...;Have+a+nice+day+ahead+!!"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+open-minded+and+eager+to+learn;Interested+in+anything+Tech...;Have+a+nice+day+ahead+!!"></p>
 
 <br>
 
