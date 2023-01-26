@@ -44,14 +44,9 @@
 - <a href="https://certificate.givemycertificate.com/c/95ff1f21-b87c-4fb0-b911-6ef59dbad9a6" /> Runner-Up of Treasure Hacks 3.0 Hackathon among 600 participants</a>
 - <a href="https://hack-the-league-chapter-2.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Recently+ended" /> Qualified for Hack The League Chapter 2
 
-
-<!-- <<<<<<< patch-1 -->
-<h2> <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
- -->
-<!-- ======= -->
-<a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
-
-<!-- >>>>>>> main -->
+<hr>
+<h2> <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode </h2>
+  
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://swapnoneel.hashnode.dev/sets-in-python" title=" Sets in Python"></a>
