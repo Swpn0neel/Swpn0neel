@@ -61,6 +61,8 @@ Sets are unordered collection of data items. They store multiple items in a sing
 <br/> Introduction
 Python docstrings are the string literals that appear right after the definition of a function, method, class, or module... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
+
+<br>
 <br>
 <br>
 <div align="center">
