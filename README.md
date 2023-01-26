@@ -73,7 +73,7 @@ Python docstrings are the string literals that appear right after the definition
 <details>
   <summary><h3>My GitHub Stats</h3></summary>
   <div align = "center">
-    <h2>My GitHub Stats<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+    <h2>My GitHub Stats</h2>
   </div>
   <div align="center">
     <table>
