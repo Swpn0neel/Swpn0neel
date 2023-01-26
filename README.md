@@ -70,10 +70,10 @@ Python docstrings are the string literals that appear right after the definition
 <p><a href="https://swapnoneel.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
  
-<details>
-  <summary><h3>My GitHub Stats</h3></summary>
-  <div align = "center">
-    <h2>My GitHub Stats</h2>
+ <hr>
+ 
+
+<h2 align="center">My GitHub Stats</h2>
   </div>
   <div align="center">
     <table>
@@ -88,6 +88,5 @@ Python docstrings are the string literals that appear right after the definition
       <a href="http://www.github.com/Swapn0neel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Swpn0neel&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
     </td>
   </tr>
-</details>
 
 
