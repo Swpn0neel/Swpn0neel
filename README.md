@@ -65,10 +65,10 @@ Python docstrings are the string literals that appear right after the definition
 <br>
 <br>
 <br>
-<div align="center">
+<!-- <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://swapnoneel.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
-</div>
+</div> -->
  
  <hr>
  
