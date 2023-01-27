@@ -21,5 +21,4 @@ jobs:
           STYLE: "blog-left"
           BLOG_URL: "https://swapnoneel.hashnode.dev/"
         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            GITHUB_TOKEN: ReadMe
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
