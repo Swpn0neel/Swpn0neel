@@ -86,5 +86,6 @@ Sets are unordered collection of data items. They store multiple items in a sing
     </td>
   </tr>
 
+<!-- <hr> -->
 
-<!-- ![h](https://github.com/Swpn0neel/Swpn0neel/assests/bottom.svg) -->
+<!-- ![](https://github.com/Swpn0neel/Swpn0neel/blob/main/assests/bottom.svg) -->
