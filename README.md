@@ -3,7 +3,7 @@
 
 <!-- <h2 align="center">Hi 👋, I'm Swapnoneel Saha</h2>
 <h4 align="center">A passionate Front-End Developer and Open-Source Enthusiast</h4> -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+open-minded+and+eager+to+learn;Interested+in+anything+Tech...;Have+a+nice+day+ahead+!!"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=E88335&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+open-minded+and+eager+to+learn;Interested+in+anything+Tech...;Have+a+nice+day+ahead+!!"></p>
 
 <br>
 
@@ -50,25 +50,22 @@
   
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://swapnoneel.hashnode.dev/sets-in-python" title="Sets in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/o0Qqw21-0NI/upload/37385b973b2b5cd495b98832e3c5f5e7.jpeg" alt="Sets in Python" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev/sets-in-python" title="Sets in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674921373638/0fdb5f78-bd54-4eff-8ec4-68ffafb9e30a.png" alt="Sets in Python" width="250px" align="left" /></a>
 <a href="https://swapnoneel.hashnode.dev/sets-in-python" title="Sets in Python"><strong>Sets in Python</strong></a>
 <br/> Introduction
 Sets are unordered collection of data items. They store multiple items in a single variable. Set items are separated by commas and enclosed within curly brackets {}. Sets are unchangeable, meaning you cannot change items of the set once created. Sets do not contain duplicate items... </p> <br> <br> <br>
 
 <p align="left">
-<a href="https://swapnoneel.hashnode.dev/docstrings-in-python" title="Docstrings in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zNRITe8NPqY/upload/fa476f50bda634c8092d86848ac9514f.jpeg" alt="Docstrings in Python" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev/docstrings-in-python" title="Docstrings in Python"><strong>Docstrings in Python</strong></a>
-<br/> Introduction
-Python docstrings are the string literals that appear right after the definition of a function, method, class, or module... </p> <br/> <br/>
+<a href="https://swapnoneel.hashnode.dev//virtual-environments" title="Virtual Environments"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674921802429/dcfb12a5-0142-490a-a6c0-dd45f38dc8c5.png" alt="Virtual Environments" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev//virtual-environments" title="Virtual Environments"><strong>Virtual Environments</strong></a>
+<br/> What is a Virtual Environment? A virtual environment is a tool used to isolate specific Python environments on a single machine, allowing you to work on multiple projects with different dependencies and packages without conflicts. This can be especially... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-<br>
-<br>
-<br>
-<!-- <div align="center">
+
+<div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://swapnoneel.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
-</div> -->
+</div>
  
  <hr>
  
