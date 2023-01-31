@@ -35,6 +35,7 @@
   <a href="https://www.linkedin.com/in/swapnoneel-saha-14a3161b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnoneel saha" height="30" width="40" /></a>
   <a href="https://hashnode.com/@Swapn0neel" target="blank"><img align="center" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnode.svg" height="30" width="40" /></a>
   <a href="https://discord.gg/Swappy#4340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Swappy#4340" height="30" width="40" /></a>
+  <a href="mailto:swapnoneelsaha111@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/gmail--v1.png" alt="swapnoneelsaha111@gmail.com" height="35" width"35" /></a>
 </p>
 <hr>
 
