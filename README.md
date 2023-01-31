@@ -51,10 +51,17 @@
   
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://swapnoneel.hashnode.dev//exception-and-custom-errors" title="Exception Handling & Custom Errors"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675171166172/98524b43-25c2-4e75-b0cd-60ddd244fc78.png" alt="Exception Handling & Custom Errors" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev//exception-and-custom-errors" title="Exception Handling & Custom Errors"><strong>Exception Handling & Custom Errors</strong></a>
+<br/> Introduction
+Exceptions and custom errors are used in programming to handle and report errors or unexpected events in a program. The purpose of raising exceptions is to signal that a problem has occurred and to transfer control to the appropriate err... </p> <br> <br>
+
+
+<p align="left">
 <a href="https://swapnoneel.hashnode.dev/sets-in-python" title="Sets in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674921373638/0fdb5f78-bd54-4eff-8ec4-68ffafb9e30a.png" alt="Sets in Python" width="250px" align="left" /></a>
 <a href="https://swapnoneel.hashnode.dev/sets-in-python" title="Sets in Python"><strong>Sets in Python</strong></a>
 <br/> Introduction
-Sets are unordered collection of data items. They store multiple items in a single variable. Set items are separated by commas and enclosed within curly brackets {}. Sets are unchangeable, meaning you cannot change items of the set once created. Sets do not contain duplicate items... </p> <br> <br> <br>
+Sets are unordered collection of data items. They store multiple items in a single variable. Set items are separated by commas and enclosed within curly brackets {}. Sets are unchangeable, meaning you cannot change items of the set once created. Sets do not contain duplicate items... </p> <br> <br>
 
 <p align="left">
 <a href="https://swapnoneel.hashnode.dev//virtual-environments" title="Virtual Environments"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674921802429/dcfb12a5-0142-490a-a6c0-dd45f38dc8c5.png" alt="Virtual Environments" width="250px" align="left" /></a>
