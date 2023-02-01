@@ -5,7 +5,7 @@
 <h4 align="center">A passionate Front-End Developer and Open-Source Enthusiast</h4> -->
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=E88335&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+open-minded+and+eager+to+learn;Interested+in+anything+Tech...;Check+Out+my+Blogs+on+Hashnode!!;Have+a+nice+day+ahead+!!"></p>
 
-<br>
+<!-- <br> -->
 
 <img align="right" alt="Coding" width="450" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/img.png"></img>
 
