@@ -103,4 +103,6 @@ Sets are unordered collection of data items. They store multiple items in a sing
 
 <hr>
 
-### 🚢 &nbsp;<a href="#" class="scrollUpButton">Let's Sail Again</a><img src ="https://github.com/Swpn0neel/Swpn0neel/blob/main/assests/bottom.svg">
+### 🚢 &nbsp;<a href="#" class="scrollUpButton">Let's Sail Again</a>
+<!-- <b> <i align="left">Hey, you have reached the </i> </b> -->
+<img src ="https://github.com/Swpn0neel/Swpn0neel/blob/main/assests/bottom.svg">
