@@ -7,7 +7,7 @@
 
 <!-- <br> -->
 
-<img align="right" alt="Coding" width="450" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/image.png"></img>
+<img align="right" alt="Coding" width="450" src="https://github.com/Swpn0neel/Swpn0neel/blob/main/imageside.png"></img>
 
 
 <h3 align="left">About Me:</h3>
