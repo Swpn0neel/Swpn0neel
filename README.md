@@ -50,30 +50,30 @@
 <h2> <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode </h2>
   
 <!-- HASHNODE_BLOG:START -->
+
+<p align="left">
+<a href="https://swapnoneel.hashnode.dev//the-3-most-powerful-functions-in-python" title="The 3 Most Powerful Functions in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676032953930/423c6240-8afe-44b2-a808-039046b21e75.png" alt="The 3 Most Powerful Functions in Python" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev//the-3-most-powerful-functions-in-python" title="The 3 Most Powerful Functions in Python"><strong>The 3 Most Powerful Functions in Python</strong></a>
+<br/>In Python, the map, filter, and reduce functions are built-in functions that allow you to apply a function to a sequence of elements and return a new sequence. These functions are known as higher-order functions, as they take other funct... </p> <br> <br>
+
+
+<p align="left">
+<a href="https://swapnoneel.hashnode.dev//object-introspection-in-python" title="Object Introspection in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675784694325/30be1438-56a0-4092-838e-c39c05fa9821.png" alt="Object Introspection in Python" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev//object-introspection-in-python" title="Object Introspection in Python"><strong>Object Introspection in Python</strong></a>
+<br/> We must look into dir(), __dict__(), id() and help() attribute/methods in python. They make it easy for us to understand how classes resolve various functions and execute code. In Python, there are three built-in functions that are commonly... </p> <br/> <br/>
+
+<!-- 
 <p align="left">
 <a href="https://swapnoneel.hashnode.dev/making-life-easy-with-python" title="Making Life Easy with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675452056121/c9face63-dcd5-4d7a-bbad-faf002392624.png" alt="Making Life Easy with Python" width="250px" align="left" /></a>
 <a href="https://swapnoneel.hashnode.dev/making-life-easy-with-python" title="Making Life Easy with Python"><strong>Making Life Easy with Python</strong></a>
-<br/> Introduction
-  Python is a popular programming language that is easy to learn and nice to work with. In this guide, you will learn some simple yet helpful tips to take your Python skills to the next level by writing more readable and professional code.... </p> <br> <br>
+<br/>Python is a popular programming language that is easy to learn and nice to work with. In this guide, you will learn some simple yet helpful tips to take your Python skills to the next level by writing more readable and professional code.... </p> <br> <br>
 
 
 <p align="left">
 <a href="https://swapnoneel.hashnode.dev//exception-and-custom-errors" title="Exception Handling & Custom Errors"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675171166172/98524b43-25c2-4e75-b0cd-60ddd244fc78.png" alt="Exception Handling & Custom Errors" width="250px" align="left" /></a>
 <a href="https://swapnoneel.hashnode.dev//exception-and-custom-errors" title="Exception Handling & Custom Errors"><strong>Exception Handling & Custom Errors</strong></a>
-<br/> Introduction
-Exceptions and custom errors are used in programming to handle and report errors or unexpected events in a program. The purpose of raising exceptions is to signal that a problem has occurred and to transfer control to the appropriate err... </p> <br> <br>
+<br/>Exceptions and custom errors are used in programming to handle and report errors or unexpected events in a program. The purpose of raising exceptions is to signal that a problem has occurred and to transfer control to the appropriate err... </p> <br> <br> -->
 
-
-<p align="left">
-<a href="https://swapnoneel.hashnode.dev/sets-in-python" title="Sets in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674921373638/0fdb5f78-bd54-4eff-8ec4-68ffafb9e30a.png" alt="Sets in Python" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev/sets-in-python" title="Sets in Python"><strong>Sets in Python</strong></a>
-<br/> Introduction
-Sets are unordered collection of data items. They store multiple items in a single variable. Set items are separated by commas and enclosed within curly brackets {}. Sets are unchangeable, meaning you cannot change items of the set once created. Sets do not contain duplicate items... </p> <br> <br>
-
-<p align="left">
-<a href="https://swapnoneel.hashnode.dev//virtual-environments" title="Virtual Environments"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674921802429/dcfb12a5-0142-490a-a6c0-dd45f38dc8c5.png" alt="Virtual Environments" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev//virtual-environments" title="Virtual Environments"><strong>Virtual Environments</strong></a>
-<br/> What is a Virtual Environment? A virtual environment is a tool used to isolate specific Python environments on a single machine, allowing you to work on multiple projects with different dependencies and packages without conflicts. This can be especially... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
