@@ -47,7 +47,7 @@
 
 
 <hr>
-<h2> <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode </h2>
+<h2> <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="18.2"/></a> Recent Blogs on Hashnode </h2>
   
 <!-- HASHNODE_BLOG:START -->
 
