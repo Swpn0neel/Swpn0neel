@@ -62,18 +62,18 @@
 <a href="https://swapnoneel.hashnode.dev//object-introspection-in-python" title="Object Introspection in Python"><strong>Object Introspection in Python</strong></a>
 <br/> We must look into dir(), __dict__(), id() and help() attribute/methods in python. They make it easy for us to understand how classes resolve various functions and execute code. In Python, there are three built-in functions that are commonly... </p> <br/> <br/>
 
-<!-- 
-<p align="left">
-<a href="https://swapnoneel.hashnode.dev/making-life-easy-with-python" title="Making Life Easy with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675452056121/c9face63-dcd5-4d7a-bbad-faf002392624.png" alt="Making Life Easy with Python" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev/making-life-easy-with-python" title="Making Life Easy with Python"><strong>Making Life Easy with Python</strong></a>
-<br/>Python is a popular programming language that is easy to learn and nice to work with. In this guide, you will learn some simple yet helpful tips to take your Python skills to the next level by writing more readable and professional code.... </p> <br> <br>
-
 
 <p align="left">
+<a href="https://swapnoneel.hashnode.dev/os-modules-in-python" title="OS Modules in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676210282539/ae24f584-59fd-4c84-8687-447ab09eb7c0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="OS Modules in Python" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev/os-modules-in-python" title="OS Modules in Python"><strong>OS Modules in Python</strong></a>
+<br/>The os module in Python is a built-in library that provides functions for interacting with the operating system. It allows you to perform a wide variety of tasks, such as reading and writing files, interacting with the file system, and running... </p> <br> <br>
+
+
+<!-- <p align="left">
 <a href="https://swapnoneel.hashnode.dev//exception-and-custom-errors" title="Exception Handling & Custom Errors"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675171166172/98524b43-25c2-4e75-b0cd-60ddd244fc78.png" alt="Exception Handling & Custom Errors" width="250px" align="left" /></a>
 <a href="https://swapnoneel.hashnode.dev//exception-and-custom-errors" title="Exception Handling & Custom Errors"><strong>Exception Handling & Custom Errors</strong></a>
-<br/>Exceptions and custom errors are used in programming to handle and report errors or unexpected events in a program. The purpose of raising exceptions is to signal that a problem has occurred and to transfer control to the appropriate err... </p> <br> <br> -->
-
+<br/>Exceptions and custom errors are used in programming to handle and report errors or unexpected events in a program. The purpose of raising exceptions is to signal that a problem has occurred and to transfer control to the appropriate err... </p> <br> <br>
+ -->
 <!-- HASHNODE_BLOG:END -->
 
 
