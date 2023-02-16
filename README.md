@@ -64,9 +64,9 @@
 
 
 <p align="left">
-<a href="https://swapnoneel.hashnode.dev/enumerate-function-in-python" title="Enumerate Function in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676362341319/96fee419-0659-4eb9-8426-fbbdf0bbd373.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Enumerate Function in Python" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev/enumerate-function-in-python" title="Enumerate Function in Python"><strong>Enumerate Function in Python</strong></a>
-<br/>The enumerate function in Python converts a data collection object into an enumerate object. Enumerate returns an object that contains a counter as a key for each value within an object, making items within the collection easier to access.</p> <br> <br>
+<a href="https://swapnoneel.hashnode.dev/introduction-to-oops" title="Introduction to OOPs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676570246544/5f991799-f333-45f2-8e48-2a229c94179a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Introduction to OOPs" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev/introduction-to-oops" title="Enumerate Function in Python"><strong>Introduction to OOPs</strong></a>
+<br/>A class is a blueprint or template for creating objects. It defines the properties and methods that an object of that class will have. Properties are the data or state of an object, and methods are the actions or behaviors that an object can perform.</p> <br> <br>
 
 
 <!-- <p align="left">
