@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript or even Content-Writing and Public Speaking**
+- 💬 Ask me about **Java, Python, DSA, Web-Development or even Content-Writing and Public Speaking**
 
 - 📫 How to reach me **swapnoneelsaha111@gmail.com**
 
-- ⚡ Hobby **Gaming and Watching movies**
+- ⚡ Hobby **Gaming and Watching movies/TV Shows**
 
 
 <h3 align="left">Languages and Tools:</h3>
