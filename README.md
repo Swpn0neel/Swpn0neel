@@ -42,6 +42,7 @@
 
 <h3 align="left">Achievements 🏆</h3> 
 
+- <a href="https://www.linkedin.com/in/swapnoneel-saha-14a3161b6/" /> Technical Writer at Tutorials Point: May,2023 - Present</a>
 - <a href="https://certificate.givemycertificate.com/c/95ff1f21-b87c-4fb0-b911-6ef59dbad9a6" /> Runner-Up of Treasure Hacks 3.0 Hackathon among 600 participants</a>
 - <a href="https://devpost.com/software/the-magnificent-seven" /> Winner of Hack Around the World 2 Hackathon offered by MLH Hacks</a> 
 - <a href="https://hack-the-league-chapter-2.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Recently+ended" /> Qualified for Hack The League Chapter 2
