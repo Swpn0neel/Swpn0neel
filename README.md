@@ -16,7 +16,7 @@
 
 - 😄 Pronouns **He/Him**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Download my [resume](https://docs.google.com/document/d/1c931FkeAugaefH0LcY2Irap0UOp4D9cLpyAgwjOt1ao/edit?usp=sharing)
 
 - 💬 Ask me about **Java, Python, DSA, Web-Development or even Content-Writing and Public Speaking**
 
