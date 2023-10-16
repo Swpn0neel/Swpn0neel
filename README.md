@@ -20,9 +20,9 @@
 
 - 💬 Ask me about **Java, Python, DSA, Web-Development or even Content-Writing and Public Speaking**
 
-- 📫 How to reach me **swapnoneelsaha111@gmail.com**
+- 📫 Reach out to me at: **swapnoneelsaha111@gmail.com**
 
-- ⚡ Hobby **Gaming and Watching movies/TV Shows**
+- ⚡ **Follow me** if you like my projects.
 
 
 <h3 align="left">Languages and Tools:</h3>
