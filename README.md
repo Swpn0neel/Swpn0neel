@@ -44,6 +44,7 @@
 <h3 align="left">Achievements 🏆</h3> 
 
 - <a href="https://www.linkedin.com/in/swapnoneel-saha-14a3161b6/" /> Technical Writer at Tutorials Point: May, 2023 - Present </a>
+- <a href="https://github.com/keploy/" /> Community Evangelist at Keploy: December, 2023 - March, 2024 </a>
 - <a href="#" /> Contributor at GirlsScript Summer of Code'23 </a>
 - <a href="https://certificate.givemycertificate.com/c/95ff1f21-b87c-4fb0-b911-6ef59dbad9a6" /> Runner-Up of Treasure Hacks 3.0 Hackathon among 600 participants </a>
 - <a href="https://devpost.com/software/the-magnificent-seven" /> Winner of Hack Around the World 2 Hackathon offered by MLH Hacks </a>
