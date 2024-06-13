@@ -59,28 +59,22 @@
 <!-- HASHNODE_BLOG:START -->
 
 <p align="left">
-<a href="https://swapnoneel.hashnode.dev//the-3-most-powerful-functions-in-python" title="The 3 Most Powerful Functions in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676032953930/423c6240-8afe-44b2-a808-039046b21e75.png" alt="The 3 Most Powerful Functions in Python" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev//the-3-most-powerful-functions-in-python" title="The 3 Most Powerful Functions in Python"><strong>The 3 Most Powerful Functions in Python</strong></a>
-<br/>In Python, the map, filter, and reduce functions are built-in functions that allow you to apply a function to a sequence of elements and return a new sequence. These functions are known as higher-order functions, as they take other funct... </p> <br> <br>
+<a href="https://swapnoneel.hashnode.dev/publish-your-own-npm-package" title="Publish your own NPM Package"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716652494165/d4d1de8a-1201-411d-af7d-9b40fa4b6a21.png" alt="Publish your own NPM Package" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev/publish-your-own-npm-package" title="Publish your own NPM Package"><strong>Publish your own NPM Package</strong></a>
+<br/>Isn't it cool if you can run command like npx <you_name> in someone's terminal, and they can read about you, your works, and find details like your social media handles, right at their terminal? Or maybe you have created some cool React component, ... </p> <br> <br>
 
 
 <p align="left">
-<a href="https://swapnoneel.hashnode.dev//object-introspection-in-python" title="Object Introspection in Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675784694325/30be1438-56a0-4092-838e-c39c05fa9821.png" alt="Object Introspection in Python" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev//object-introspection-in-python" title="Object Introspection in Python"><strong>Object Introspection in Python</strong></a>
-<br/> We must look into dir(), __dict__(), id() and help() attribute/methods in python. They make it easy for us to understand how classes resolve various functions and execute code. In Python, there are three built-in functions that are commonly... </p> <br/> <br/>
+<a href="https://swapnoneel.hashnode.dev/the-3-most-powerful-functions-in-javascript" title="The 3 Most Powerful Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710072792777/b19a2577-a9ac-47e3-b8f0-a7f7821ab6f8.png" alt="The 3 Most Powerful Functions in JavaScript" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev/the-3-most-powerful-functions-in-javascript" title="The 3 Most Powerful Functions in JavaScript"><strong>The 3 Most Powerful Functions in JavaScript</strong></a>
+<br/> The map(), filter() and the reduce() are the most powerful and important higher order functions in JavaScript that generally operates on arrays. Being the part of the functional programming paradigm of JavaScript, these functions allow us to write... </p> <br/> <br/>
 
 
 <p align="left">
-<a href="https://swapnoneel.hashnode.dev/introduction-to-oops" title="Introduction to OOPs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676570246544/5f991799-f333-45f2-8e48-2a229c94179a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Introduction to OOPs" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev/introduction-to-oops" title="Enumerate Function in Python"><strong>Introduction to OOPs</strong></a>
-<br/>A class is a blueprint or template for creating objects. It defines the properties and methods that an object of that class will have. Properties are the data or state of an object, and methods are the actions or behaviors that an object can perform.</p> <br> <br>
+<a href="https://swapnoneel.hashnode.dev/nodejs-npm-nvm" title="Installing Node.js and managing it's versions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716561929669/7be53812-2eb8-4dd7-84a4-3a0f8546086f.png" alt="Installing Node.js and managing it's versions" width="250px" align="left" /></a>
+<a href="https://swapnoneel.hashnode.dev/nodejs-npm-nvm" title="Installing Node.js and managing it's versions"><strong>Installing Node.js and managing it's versions</strong></a>
+<br/>We all know that, Node.js is the runtime environment for JavaScript that executes JavaScript code outside the web browser. And, npm stands for Node Package Manager and is the default package manager for Node.js and is also a platform for managing ...</p> <br> <br>
 
-
-<!-- <p align="left">
-<a href="https://swapnoneel.hashnode.dev//exception-and-custom-errors" title="Exception Handling & Custom Errors"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675171166172/98524b43-25c2-4e75-b0cd-60ddd244fc78.png" alt="Exception Handling & Custom Errors" width="250px" align="left" /></a>
-<a href="https://swapnoneel.hashnode.dev//exception-and-custom-errors" title="Exception Handling & Custom Errors"><strong>Exception Handling & Custom Errors</strong></a>
-<br/>Exceptions and custom errors are used in programming to handle and report errors or unexpected events in a program. The purpose of raising exceptions is to signal that a problem has occurred and to transfer control to the appropriate err... </p> <br> <br>
- -->
 <!-- HASHNODE_BLOG:END -->
 
 
