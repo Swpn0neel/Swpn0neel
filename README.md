@@ -33,8 +33,8 @@ Software Engineer and Product Builder based in India. I focus on building scalab
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Scholarian](https://deep-researching-agent.streamlit.app)** | Gemini-powered research pipeline for academic papers. | Python, Streamlit, Gemini |
-| **[GetResponse](https://github.com/Swpn0neel/get-response)** | Premium CLI tool and documentation ecosystem. | Node.js, TypeScript |
+| **[Scholarian](https://scholarian.vercel.app)** | LLM-powered research pipeline for academic papers. | Next.js, Supabase, Gemini |
+| **[GetResponse](https://get-response-site.vercel.app)** | LLM-based CLI tool for automation and support. | Node.js, JavaScript |
 | **[TermAI](https://github.com/Swpn0neel/term-ai)** | Terminal-based AI interaction platform. | Node.js, AI |
 | **[TermChat](https://term-chat.vercel.app)** | Terminal-based Advanced Chat application | Node.js, TypeScript, AI |
 | **[Toile](https://toile.vercel.app)** | CRUD application to showcase artistic works. | GSAP, NextJS |
